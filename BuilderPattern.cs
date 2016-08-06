@@ -7,17 +7,6 @@ namespace PracticeForDesignPattern
         //actual order a Pizza from customer
         class BuilderExample
         {
-            static void Main(string[] args)
-            {
-                Jumo jumo = new Jumo();
-                PizzaBuilder kimchi_Pizzabuilder = new KimchiPizzaBuilder();
-                PizzaBuilder SeaFood_Pizzabuilder = new SeaFoodPizzaBuilder();
-
-                jumo.setPizzaBuilder(kimchi_Pizzabuilder);
-                jumo.constructPizza();
-
-                Pizza pizza = jumo.getPizza();
-            }
         }
         //"product"
         class Pizza
@@ -71,6 +60,17 @@ namespace PracticeForDesignPattern
                 pizzaBuilder.buildSauce();
                 pizzaBuilder.buildTopping();
             }
+        }
+        static void Main(string[] args)
+        {
+            Jumo jumo = new Jumo();
+            PizzaBuilder kimchi_Pizzabuilder = new KimchiPizzaBuilder();
+            PizzaBuilder SeaFood_Pizzabuilder = new SeaFoodPizzaBuilder();
+        
+            jumo.setPizzaBuilder(kimchi_Pizzabuilder);
+            jumo.constructPizza();
+        
+            Pizza pizza = jumo.getPizza();
         }
     }
 }
