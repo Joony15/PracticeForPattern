@@ -1,6 +1,0 @@
-C:\Users\noddy\Documents\Visual Studio 2015\Projects\PracticeForDesignPattern\FactoryMethod\bin\Debug\FactoryMethod.exe.config
-C:\Users\noddy\Documents\Visual Studio 2015\Projects\PracticeForDesignPattern\FactoryMethod\bin\Debug\FactoryMethod.exe
-C:\Users\noddy\Documents\Visual Studio 2015\Projects\PracticeForDesignPattern\FactoryMethod\bin\Debug\FactoryMethod.pdb
-C:\Users\noddy\Documents\Visual Studio 2015\Projects\PracticeForDesignPattern\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
-C:\Users\noddy\Documents\Visual Studio 2015\Projects\PracticeForDesignPattern\FactoryMethod\obj\Debug\FactoryMethod.exe
-C:\Users\noddy\Documents\Visual Studio 2015\Projects\PracticeForDesignPattern\FactoryMethod\obj\Debug\FactoryMethod.pdb
