@@ -1,0 +1,6 @@
+c:\users\noddy\documents\visual studio 2015\Projects\PracticeForDesignPattern\PracticeForDesignPattern\bin\Debug\PracticeForDesignPattern.exe.config
+c:\users\noddy\documents\visual studio 2015\Projects\PracticeForDesignPattern\PracticeForDesignPattern\bin\Debug\PracticeForDesignPattern.exe
+c:\users\noddy\documents\visual studio 2015\Projects\PracticeForDesignPattern\PracticeForDesignPattern\bin\Debug\PracticeForDesignPattern.pdb
+c:\users\noddy\documents\visual studio 2015\Projects\PracticeForDesignPattern\PracticeForDesignPattern\obj\Debug\PracticeForDesignPattern.csprojResolveAssemblyReference.cache
+c:\users\noddy\documents\visual studio 2015\Projects\PracticeForDesignPattern\PracticeForDesignPattern\obj\Debug\PracticeForDesignPattern.exe
+c:\users\noddy\documents\visual studio 2015\Projects\PracticeForDesignPattern\PracticeForDesignPattern\obj\Debug\PracticeForDesignPattern.pdb
